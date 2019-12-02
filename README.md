@@ -10,4 +10,4 @@ I then create a `private route` for posts that mimics a `protected route`. Here,
 
 ### Tags
 
-`jsonwebtoken` `jwt` `jwt authentication` `node.js` `express.js` `private routes`
+`jsonwebtoken` `jwt` `jwt authentication` `node.js` `express.js` `private routes` `bcrypt`
