@@ -1,6 +1,6 @@
 # jwt-node-auth
 
-### Node.js API with JWT Aunthentication with BCRYPT password encryption
+### Node.js Aunthentication API using JWT & BCRYPT
 
 The code demonstrates creating a `Node.js` API using `Express.js` routes.
 In the code, I create a `register user route` for creating users.
